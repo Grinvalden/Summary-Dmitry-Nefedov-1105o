@@ -1,0 +1,19 @@
+{
+  "name": "summary-dmitry-nefedov-1105o",
+  "version": "1.0.0",
+  "description": "odisfvbpijsdf[fnobjnd«Student's abstract by <name> <surname>, Group No. <group-number>, on the subject \"Applied Programming.\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Grinvalden/Summary-Dmitry-Nefedov-1105o.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grinvalden/Summary-Dmitry-Nefedov-1105o/issues"
+  },
+  "homepage": "https://github.com/Grinvalden/Summary-Dmitry-Nefedov-1105o#readme"
+}
